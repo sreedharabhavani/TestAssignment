@@ -25,7 +25,7 @@ It will create sign for user and the input data is taken from the JSON file.
 ## Folder structure
 ```python
 
-report: It is for the HTML reports.
+Allure-report: It is for the HTML reports.
 tests: It is the JAVAScript and JSON files.
 
 ```
